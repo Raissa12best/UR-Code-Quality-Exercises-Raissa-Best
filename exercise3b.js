@@ -10,3 +10,4 @@ function isPrime(num) {
 
   return true;
 }
+//Write a JavaScript function to check if a given number is prime or not.
